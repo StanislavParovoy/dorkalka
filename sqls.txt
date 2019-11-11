@@ -1,6 +1,0 @@
-http://nestlaboratory.com/content.php?id=11'|NOTITLE
-http://www.maclaren.co.kr/home/board/zb/view.php?uid=111'&startPage=1'&boardid=zb_news'&category=%C0%FC%C3%BC'|NOTITLE
-http://www.sokahappy.co.kr/zb/view.php?uid=19'&startPage=3'&boardid=zb_se01'&category=%C0%FC%C3%BC'&code=se'&PHPSESSID=bd9d2b07422e7697cd420238703552ec'|NOTITLE
-http://www.visionwide.co.kr/zb/view.php?uid=3'&startPage=1'&boardid=zb_sd02'&category=%EC%A0%84%EC%B2%B4'&code=sg'|NOTITLE
-http://www.ymtec.co.kr/zb/view.php?uid=12'&startPage=1'&boardid=zb_sc01'&code=se'|NOTITLE
-http://www.ymtec.co.kr/zb/view.php?uid=55'&startPage=1'&boardid=zb_sd02'&category=%C0%FC%C3%BC'&code=se'|NOTITLE
